@@ -1,5 +1,3 @@
-# Scrabble-Game-Java
-
 # Scrabble Game in Java
 
 This repository contains implementations of Scrabble games in Java, including five different versions: Mini Scrabble, Big Scrabble, and more.
