@@ -55,7 +55,7 @@ To play the Scrabble games implemented in this repository, follow these steps:
 3. Compile the Java files using a compatible compiler:
 
     ```bash
-    javac main.java
+    javac mainscrabble.java
     ```
 
 4. Run the compiled program:
