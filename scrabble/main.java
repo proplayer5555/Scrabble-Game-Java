@@ -12,7 +12,7 @@ package main;
 import java.util.Scanner;
 import static java.lang.System.out;
 import java.util.ArrayList;
-public class askisimegali2main {
+public class main {
 
     /**
      * @param args the command line arguments
