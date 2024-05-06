@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package main;
+package mainscrabble;
 
 /**
  *
@@ -12,13 +12,13 @@ package main;
 import java.util.Scanner;
 import static java.lang.System.out;
 import java.util.ArrayList;
-public class main {
+public class mainscrabble {
 
     /**
      * @param args the command line arguments
      */
     
-    public static void main(String[] args) {
+    public static void mainscrabble(String[] args) {
         boolean ellinika;
         boolean tonika;
         int noplayers;
